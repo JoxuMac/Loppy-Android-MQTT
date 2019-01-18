@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LOPY-ANDROID MQTT</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="humedad">Humedad</string>
+    <string name="luminosidad">Luminosidad</string>
+    <string name="amarillo">AMARILLO</string>
+    <string name="azul">AZUL</string>
+    <string name="apagar">APAGAR LED</string>
+    <string name="rojo">ROJO</string>
+    <string name="verde">VERDE</string>
+</resources>
